@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   animated_splash_screen: ^1.3.0
   get:
+  bottom_navy_bar: ^6.0.0
 
 dev_dependencies:
   flutter_test:
@@ -66,6 +67,11 @@ flutter:
    - assets/images/profile_logo.png
    - assets/images/ic_coin.png
    - assets/images/download.jpg
+   - assets/images/ic_home.png
+   - assets/images/ic_agent.png
+   - assets/images/ic_heart.png
+   - assets/images/ic_settings.png
+   - assets/images/messages.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 

@@ -17,10 +17,9 @@ class _ForgetPasswordScreenState extends State<ForgetPasswordScreen> {
       backgroundColor: Color(0xffEEEEEE),
       body: SafeArea(
         child: Column(
-
           children: [
             SizedBox(
-              height: 100,
+              height: 50,
             ),
             Padding(
               padding: const EdgeInsets.all(8.0),
